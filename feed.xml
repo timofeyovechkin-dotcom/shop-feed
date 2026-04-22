@@ -13,23 +13,37 @@
       <category id="2">Женская одежда</category>
     </categories>
     <offers>
-    <offer id="" available="true">
-      <name></name>
-      <price></price>
+    <offer id="SH390735947" available="true">
+      <name>джинсы тёмно-синий</name>
+      <price>1700</price>
       <currencyId>RUR</currencyId>
-      <categoryId>2</categoryId>
+      <categoryId>1</categoryId>
+      <picture>https://drive.google.com/uc?export=download&id=1gc0EFImtVmgPblqQnenNMXSI3Ptc_UJz</picture>
+      <picture>https://drive.google.com/uc?export=download&id=1BE8PwFW-MNKK6w9-8zXzkAoxhZABG2fE</picture>
+      <picture>https://drive.google.com/uc?export=download&id=12G0GG0tp14k_CsOgx7soyerLrbjI6pKo</picture>
+      <picture>https://drive.google.com/uc?export=download&id=19Aa9hsm-BBuLevhu2kRRBuoh16KQCQ2U</picture>
+      <description><![CDATA[Представляем тёмно-синие джинсы, выполненные из комбинации 98% хлопка и 2% эластана. Этот материал обеспечивает комфорт и лёгкость в движении, а также сохраняет форму изделия. Классический цвет позволяет совмещать джинсы с различными стилями и элементами гардероба. Приятная на ощупь ткань делает джинсы отличным выбором для повседневной носки.
 
-      <description><![CDATA[]]></description>
-      <param name="Размер"></param>
+Дизайн модели с прямым кроем подойдёт для создания как повседневных, так и более строгих образов. Размер 31 x 32 обеспечит свободную посадку для тех, кто обычно носит M/L. Отличный вариант для тех, кто ищет сочетание стиля и удобства.
+
+Джинсы оснащены классическими пятью карманами, что добавляет им универсальности и практичности. Цвет сохраняет свою яркость после многочисленных стирок, подчёркивая долговечность изделия. Модель легко комбинируется с разнообразной обувью и верхней одеждой, подходя как для работы, так и для отдыха.
+
+В наличии в магазине.]]></description>
+      <param name="Размер">31 x 32</param>
+      <param name="Материал">98% хлопка, 2% эластана</param>
     </offer>
-    <offer id="" available="true">
-      <name></name>
-      <price></price>
+    <offer id="SH729175960" available="true">
+      <name>куртка Reebok чёрный</name>
+      <price>1800</price>
       <currencyId>RUR</currencyId>
-      <categoryId>2</categoryId>
-
-      <description><![CDATA[]]></description>
-      <param name="Размер"></param>
+      <categoryId>1</categoryId>
+      <picture>https://drive.google.com/uc?export=download&id=1uQLKMF25DToSqBd2ApfT0M7OUczS9NIU</picture>
+      <picture>https://drive.google.com/uc?export=download&id=1o-Etwdd5U6A30Lt42eqfona62DIpsSXR</picture>
+      <picture>https://drive.google.com/uc?export=download&id=1rOBcTomLmxwUwxfnDpBx4r47Pu9H7RPE</picture>
+      <picture>https://drive.google.com/uc?export=download&id=1EBdbgau1yVmuMIbUX5BYhIslSqPOxzgx</picture>
+      <description><![CDATA[Мужская куртка классического чёрного цвета. Изготовлена из практичного материала, который защищает от ветра и осадков. Размер XXL, сидит свободно на M/L, что позволяет носить её как верхний слой поверх свитеров и толстовок в прохладную погоду. Куртка оснащена практичными глубокими карманами и удобной застёжкой-молнией, что делает её функциональной для повседневного использования. Дизайн лаконичный и универсальный, подходит как для городских прогулок, так и для спортивных мероприятий на свежем воздухе. В наличии в магазине.]]></description>
+      <param name="Размер">xxl</param>
+      <param name="Материал">100% полиестер</param>
     </offer>
     </offers>
   </shop>
