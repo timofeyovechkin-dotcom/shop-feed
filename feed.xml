@@ -2,9 +2,9 @@
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 <yml_catalog date="2026-04-22">
   <shop>
-    <name>Ваш магазин</name>
-    <company>Ваш магазин</company>
-    <url>https://vk.com/yourshop</url>
+    <name>Шмотка</name>
+<company>Шмотка</company>
+<url>https://vk.com/shmotkansk</url>
     <currencies>
       <currency id="RUR" rate="1"/>
     </currencies>
