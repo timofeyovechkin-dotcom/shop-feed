@@ -19,12 +19,12 @@
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
       <picture>https://drive.google.com/uc?export=download&amp;id=15qGBeXN8qo5wxVFBXPDI0PC1SLMZpmdZ</picture>
-      <description><![CDATA[Эта стильная женская стёганая куртка от бренда Orsay в светло коричневом цвете станет отличным дополнением вашего гардероба. Размер S и наполнитель из синтепона обеспечат комфорт и тепло в прохладную погоду. Не упустите возможность приобрести её всего за 2000 рублей!]]></description>
+      <description><![CDATA[Эта стильная женская стёганая куртка от бренда Orsay в светло коричневом цвете  Размер S и наполнитель из синтепона обеспечат комфорт и тепло в прохладную погоду.]]></description>
       <param name="Размер">S</param>
       <param name="Материал">синтепон</param>
     </offer>
     <offer id="SH125344706" available="true">
-      <n>куртка не указан</n>
+      <n>куртка columbia не указан</n>
       <price>2000</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -34,7 +34,7 @@
       <param name="Материал">искусственный мех</param>
     </offer>
     <offer id="SH390735947" available="true">
-      <n>джинсы тёмно-синий</n>
+      <n>джинсы G-star RAW тёмно-синий</n>
       <price>1700</price>
       <currencyId>RUR</currencyId>
       <categoryId>1</categoryId>
@@ -49,7 +49,7 @@
       <currencyId>RUR</currencyId>
       <categoryId>1</categoryId>
       <picture>https://drive.google.com/uc?export=download&amp;id=1uQLKMF25DToSqBd2ApfT0M7OUczS9NIU</picture>
-      <description><![CDATA[Эта стильная мужская ветровка чёрного цвета от бренда Reebok в отличном состоянии станет отличным дополнением к вашему гардеробу. Идеально подходит для активного отдыха и повседневной носки. Не упустите возможность приобрести её всего за 1800₽!]]></description>
+      <description><![CDATA[Эта стильная мужская ветровка чёрного цвета от бренда Reebok в отличном состоянии  Идеально подходит для активного отдыха и повседневной носки.]]></description>
       <param name="Размер">xxl</param>
       <param name="Материал">100% полиестер</param>
     </offer>
