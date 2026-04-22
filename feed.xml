@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-04-22">
+  <shop>
+    <name>Ваш магазин</name>
+    <company>Ваш магазин</company>
+    <url>https://vk.com/yourshop</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Мужская одежда</category>
+      <category id="2">Женская одежда</category>
+    </categories>
+    <offers>
+    <offer id="" available="true">
+      <name></name>
+      <price></price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+
+      <description><![CDATA[]]></description>
+      <param name="Размер"></param>
+    </offer>
+    <offer id="" available="true">
+      <name></name>
+      <price></price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+
+      <description><![CDATA[]]></description>
+      <param name="Размер"></param>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
