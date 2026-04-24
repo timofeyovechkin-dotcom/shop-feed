@@ -14,7 +14,7 @@
     </categories>
     <offers>
     <offer id="SH071727123" available="true">
-      <n>джинсы синий</n>
+      <name>джинсы синий</name>
       <price>1200</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -24,7 +24,7 @@
       <param name="Материал">98% хлопок, 2% эластан</param>
     </offer>
     <offer id="SH382457997" available="true">
-      <n>куртка светлый голубой</n>
+      <name>куртка светлый голубой</name>
       <price>2500</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -34,7 +34,7 @@
       <param name="Материал">не указан</param>
     </offer>
     <offer id="SH559894722" available="true">
-      <n>блуза зелёный</n>
+      <name>блуза зелёный</name>
       <price>620</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -44,7 +44,7 @@
       <param name="Материал">100% полиестер</param>
     </offer>
     <offer id="SH686932360" available="true">
-      <n>блуза морская волна в белую полоску</n>
+      <name>блуза морская волна в белую полоску</name>
       <price>620</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -54,7 +54,7 @@
       <param name="Материал">100% хлопок</param>
     </offer>
     <offer id="SH089805287" available="true">
-      <n>пальто черно-белый</n>
+      <name>пальто черно-белый</name>
       <price>2800</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -64,7 +64,7 @@
       <param name="Материал">50% акрил 50% шерсть</param>
     </offer>
     <offer id="SH473954244" available="true">
-      <n>брюки zara бежевый</n>
+      <name>брюки zara бежевый</name>
       <price>1000</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -74,7 +74,7 @@
       <param name="Материал">67% полиэстер, 19% лен, 14% вискоза</param>
     </offer>
     <offer id="SH670050366" available="true">
-      <n>брюки разноцветный</n>
+      <name>брюки разноцветный</name>
       <price>1000</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -84,8 +84,8 @@
       <param name="Материал">хлопок</param>
     </offer>
     <offer id="SH527193784" available="true">
-      <n>брюки бордовый</n>
-      <price></price>
+      <name>брюки бордовый</name>
+      <price>0</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
       <picture>https://drive.google.com/uc?export=download&amp;id=10q3YYwu7GwKI5jlYHQ_VNsb7MZPKhhZy</picture>
@@ -94,7 +94,7 @@
       <param name="Материал">100% хлопок</param>
     </offer>
     <offer id="SH957443380" available="true">
-      <n>обувь розовый</n>
+      <name>обувь розовый</name>
       <price>620</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -104,7 +104,7 @@
       <param name="Материал">100% вискоза</param>
     </offer>
     <offer id="SH131360884" available="true">
-      <n>худи бордовый</n>
+      <name>худи бордовый</name>
       <price>800</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -114,7 +114,7 @@
       <param name="Материал">40% хлопка, 60% не указан</param>
     </offer>
     <offer id="SH213917579" available="true">
-      <n>худи чёрный</n>
+      <name>худи чёрный</name>
       <price>1600</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -124,7 +124,7 @@
       <param name="Материал">60% хлопок, 40% полиэстер</param>
     </offer>
     <offer id="SH352646163" available="true">
-      <n>худи nike бирюзовый</n>
+      <name>худи nike бирюзовый</name>
       <price>1600</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -134,7 +134,7 @@
       <param name="Материал">80% полиэстер, 20% спандекс</param>
     </offer>
     <offer id="SH514103447" available="true">
-      <n>худи nike серый</n>
+      <name>худи nike серый</name>
       <price>1200</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -144,7 +144,7 @@
       <param name="Материал">100% хлопок</param>
     </offer>
     <offer id="SH419843156" available="true">
-      <n>футболка</n>
+      <name>футболка</name>
       <price>620</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -154,7 +154,7 @@
       <param name="Материал">вискоза</param>
     </offer>
     <offer id="SH021302447" available="true">
-      <n>куртка orsay светло коричневый</n>
+      <name>куртка orsay светло коричневый</name>
       <price>2000</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -164,7 +164,7 @@
       <param name="Материал">синтепон</param>
     </offer>
     <offer id="SH125344706" available="true">
-      <n>куртка columbia</n>
+      <name>куртка columbia</name>
       <price>2000</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -174,7 +174,7 @@
       <param name="Материал">искусственный мех</param>
     </offer>
     <offer id="SH213063150" available="true">
-      <n>брюки h&amp;m мульти цвет</n>
+      <name>брюки h&amp;m мульти цвет</name>
       <price>800</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -184,7 +184,7 @@
       <param name="Материал">100% вискоза</param>
     </offer>
     <offer id="SH390735947" available="true">
-      <n>джинсы G-star RAW тёмно-синий</n>
+      <name>джинсы G-star RAW тёмно-синий</name>
       <price>1700</price>
       <currencyId>RUR</currencyId>
       <categoryId>1</categoryId>
@@ -194,7 +194,7 @@
       <param name="Материал">98% хлопка, 2% эластана</param>
     </offer>
     <offer id="SH627458613" available="true">
-      <n>куртка чёрный</n>
+      <name>куртка чёрный</name>
       <price>2500</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
@@ -204,7 +204,7 @@
       <param name="Материал">100% полиестер</param>
     </offer>
     <offer id="SH245570519" available="true">
-      <n>платье чёрный</n>
+      <name>платье чёрный</name>
       <price>1200</price>
       <currencyId>RUR</currencyId>
       <categoryId>2</categoryId>
