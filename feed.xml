@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-04-22">
+<yml_catalog date="2026-04-24">
   <shop>
     <n>Шмотка</n>
     <company>Шмотка</company>
@@ -13,6 +13,146 @@
       <category id="2">Женская одежда</category>
     </categories>
     <offers>
+    <offer id="SH071727123" available="true">
+      <n>джинсы синий</n>
+      <price>1200</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1oTiGxU1RmvazPxxywVicmBwH-ZIV2Ez4</picture>
+      <description><![CDATA[Стильные женские джинсы размер 50 от бренда John Banner. Изготовлены из качественного материала с добавлением эластана для удобства. Отличный выбор для повседневного образа!]]></description>
+      <param name="Размер">50</param>
+      <param name="Материал">98% хлопок, 2% эластан</param>
+    </offer>
+    <offer id="SH382457997" available="true">
+      <n>куртка светлый голубой</n>
+      <price>2500</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1IriKEml-3VmlW4dGFIMWfGuRMGXg-9Wj</picture>
+      <description><![CDATA[Необычно тёплая джинсовка женская светлого голубого цвета с искусственным мехом фиолетового цвета. Идеально подходит для прохладной погоды, состояние отличное!]]></description>
+      <param name="Размер">42-44</param>
+      <param name="Материал">не указан</param>
+    </offer>
+    <offer id="SH559894722" available="true">
+      <n>блуза зелёный</n>
+      <price>620</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1gbADT3nyAimHy6MTadXEHJGQNPLrVDyv</picture>
+      <description><![CDATA[Эта стильная женская блуза от бренда kly Яркий зелёный цвет и легкий материал обеспечат комфорт и привлекательный внешний вид в любое время года.]]></description>
+      <param name="Размер">48</param>
+      <param name="Материал">100% полиестер</param>
+    </offer>
+    <offer id="SH686932360" available="true">
+      <n>блуза морская волна в белую полоску</n>
+      <price>620</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1FrPQehuKhoG6O4fJBB0rb-WagdpjtDfS</picture>
+      <description><![CDATA[Эта стильная женская блуза в цвете морская волна с белой полоской Изготовлена из 100% хлопка, она обеспечит комфорт и легкость в носке.]]></description>
+      <param name="Размер">S</param>
+      <param name="Материал">100% хлопок</param>
+    </offer>
+    <offer id="SH089805287" available="true">
+      <n>пальто черно-белый</n>
+      <price>2800</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1QImFCoNeEIHWJI9BxxwcaZJeVY0hde4E</picture>
+      <description><![CDATA[Элегантное женское пальто черно-белого цвета от бренда dept. Состав из акрила и шерсти обеспечивает тепло и комфорт. Идеальный выбор для стильных образов в холодное время года!]]></description>
+      <param name="Размер">xl</param>
+      <param name="Материал">50% акрил 50% шерсть</param>
+    </offer>
+    <offer id="SH473954244" available="true">
+      <n>брюки zara бежевый</n>
+      <price>1000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1KJewpCtAz9dXgnREzGOgEWC1Rp3Lhr6o</picture>
+      <description><![CDATA[Стильные женские широкие брюки от бренда Zara. Идеальный выбор для создания комфортного и модного образа. Отлично подойдут как для повседневной носки, так и для особых случаев.]]></description>
+      <param name="Размер">s</param>
+      <param name="Материал">67% полиэстер, 19% лен, 14% вискоза</param>
+    </offer>
+    <offer id="SH670050366" available="true">
+      <n>брюки разноцветный</n>
+      <price>1000</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1JfyxpTLHCSkGysg7H9RY8uEUQxmZZIBl</picture>
+      <description><![CDATA[Эти стильные женские брюки 48 размера из стопроцентного хлопка идеально подойдут для любого случая. Яркая разноцветная полоска добавит вашему образу свежести и оригинальности.]]></description>
+      <param name="Размер">48</param>
+      <param name="Материал">хлопок</param>
+    </offer>
+    <offer id="SH527193784" available="true">
+      <n>брюки бордовый</n>
+      <price></price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=10q3YYwu7GwKI5jlYHQ_VNsb7MZPKhhZy</picture>
+      <description><![CDATA[Эти стильные бордовые брюки от бренда Dorothy Perkins идеально подойдут для любого повода. Изготовленные из 100% хлопка, они обеспечат комфорт и стиль в вашем образе.]]></description>
+      <param name="Размер">44</param>
+      <param name="Материал">100% хлопок</param>
+    </offer>
+    <offer id="SH957443380" available="true">
+      <n>обувь розовый</n>
+      <price>620</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1uZ3t7Q7EeMu7puNMJGnpC2S5Q6pGg9pB</picture>
+      <description><![CDATA[Эти стильные женские туфли 48 размера розового цвета идеально подойдут для любого случая. Бренд Reserved гарантирует высокое качество и комфорт.]]></description>
+      <param name="Размер">48</param>
+      <param name="Материал">100% вискоза</param>
+    </offer>
+    <offer id="SH131360884" available="true">
+      <n>худи бордовый</n>
+      <price>800</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1xtABKo5rJIN3-Z7A74NJmBdGZmVPd6qp</picture>
+      <description><![CDATA[Стильная женская толстовка от бренда john banner. Идеально подходит для повседневной носки, сочетает комфорт и элегантность. Размер XS и бордовый цвет добавят яркости в ваш гардероб!]]></description>
+      <param name="Размер">XS</param>
+      <param name="Материал">40% хлопка, 60% не указан</param>
+    </offer>
+    <offer id="SH213917579" available="true">
+      <n>худи чёрный</n>
+      <price>1600</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1MJBceCUU-1T2VQSDUY2Xp8F91ewuhqov</picture>
+      <description><![CDATA[Стильная женская толстовка от бренда Fila. Идеально подходит для повседневной носки и активного отдыха. Отличное состояние и комфортный состав из хлопка и полиэстера.]]></description>
+      <param name="Размер">s</param>
+      <param name="Материал">60% хлопок, 40% полиэстер</param>
+    </offer>
+    <offer id="SH352646163" available="true">
+      <n>худи nike бирюзовый</n>
+      <price>1600</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1IUXAMj0YtHZG9xwBChavg23IJZ6qSVSy</picture>
+      <description><![CDATA[Эта стильная женская толстовка от Nike в бирюзовом цвете Состав из полиэстера и спандекса обеспечивает комфорт и свободу движений.]]></description>
+      <param name="Размер">М</param>
+      <param name="Материал">80% полиэстер, 20% спандекс</param>
+    </offer>
+    <offer id="SH514103447" available="true">
+      <n>худи nike серый</n>
+      <price>1200</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1CA4-WQ7SDsQK_XGseBp3BU_BDGqbZTwH</picture>
+      <description><![CDATA[Стильная женская толстовка серого цвета от бренда Nike. Идеально подходит для повседневной носки и активного отдыха. Размер L, в хорошем состоянии, цена всего 1200 рублей!]]></description>
+      <param name="Размер">L</param>
+      <param name="Материал">100% хлопок</param>
+    </offer>
+    <offer id="SH419843156" available="true">
+      <n>футболка</n>
+      <price>620</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1QBT5U_0xM9M40i_n07nkPv1ohX34XPWx</picture>
+      <description><![CDATA[Эта стильная женская футболка от Massimo Dutti Изготовленная из 100% вискозы, она обеспечивает комфорт и легкость в носке.]]></description>
+      <param name="Размер">s</param>
+      <param name="Материал">вискоза</param>
+    </offer>
     <offer id="SH021302447" available="true">
       <n>куртка orsay светло коричневый</n>
       <price>2000</price>
@@ -33,6 +173,16 @@
       <param name="Размер">XS</param>
       <param name="Материал">искусственный мех</param>
     </offer>
+    <offer id="SH213063150" available="true">
+      <n>брюки h&amp;m мульти цвет</n>
+      <price>800</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1SzX3Rueq_z9wTK8d55AWs2AbJc-BOZaj</picture>
+      <description><![CDATA[Эти стильные женские брючки гавайки из 100% вискозы идеально подойдут для теплых дней. Яркий мульти цвет добавит вашему образу свежести и оригинальности. Отличное состояние и доступная цена всего 800 рублей!]]></description>
+      <param name="Размер">М</param>
+      <param name="Материал">100% вискоза</param>
+    </offer>
     <offer id="SH390735947" available="true">
       <n>джинсы G-star RAW тёмно-синий</n>
       <price>1700</price>
@@ -43,15 +193,25 @@
       <param name="Размер">31 x 32</param>
       <param name="Материал">98% хлопка, 2% эластана</param>
     </offer>
-    <offer id="SH729175960" available="true">
-      <n>куртка Reebok чёрный</n>
-      <price>1800</price>
+    <offer id="SH627458613" available="true">
+      <n>куртка чёрный</n>
+      <price>2500</price>
       <currencyId>RUR</currencyId>
-      <categoryId>1</categoryId>
-      <picture>https://drive.google.com/uc?export=download&amp;id=1uQLKMF25DToSqBd2ApfT0M7OUczS9NIU</picture>
-      <description><![CDATA[Эта стильная мужская ветровка чёрного цвета от бренда Reebok в отличном состоянии Идеально подходит для активного отдыха и повседневной носки.]]></description>
-      <param name="Размер">xxl</param>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1T0N0D-p1T7_5k2VkrnEGgwNTYzXo88gL</picture>
+      <description><![CDATA[Эта стильная женская ветровка чёрного цвета идеально подойдёт для весенних прогулок. Состояние отличное, размер 54, бренд astrid.]]></description>
+      <param name="Размер">54</param>
       <param name="Материал">100% полиестер</param>
+    </offer>
+    <offer id="SH245570519" available="true">
+      <n>платье чёрный</n>
+      <price>1200</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1O5b4Ma3tb9azfhpmlaYm0XF3M3AMU3JQ</picture>
+      <description><![CDATA[Элегантное женское платье чёрного цвета от бренда Scotch & Soda. Изготовлено из 100% хлопка, идеально подходит для любого случая. В отличном состоянии, цена всего 1200₽!]]></description>
+      <param name="Размер">s</param>
+      <param name="Материал">100% хлопок</param>
     </offer>
     </offers>
   </shop>
