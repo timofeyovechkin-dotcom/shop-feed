@@ -593,6 +593,16 @@
       <param name="Размер">48</param>
       <param name="Материал">софт-шел</param>
     </offer>
+    <offer id="SH245570519" available="true">
+      <name>платье чёрный</name>
+      <price>1200</price>
+      <currencyId>RUR</currencyId>
+      <categoryId>2</categoryId>
+      <picture>https://drive.google.com/uc?export=download&amp;id=1O5b4Ma3tb9azfhpmlaYm0XF3M3AMU3JQ</picture>
+      <description><![CDATA[]]></description>
+      <param name="Размер">s</param>
+      <param name="Материал">100% хлопок</param>
+    </offer>
     </offers>
   </shop>
 </yml_catalog>
